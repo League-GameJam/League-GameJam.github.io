@@ -6,19 +6,19 @@ body{ background-color: #7d8ba7;}
     
 }
 #title{
-    font-family: "OCR A Std", monospace;
+    font-family: "Lucida Console", Monaco, monospace;
     font-weight: bold;
     font-size: 80px;
 }
 
 #countdownText{
-    font-family: "OCR A Std", monospace;
+    font-family: "Lucida Console", Monaco, monospace;
     font-weight: bold;
     font-size: 40px;
 }
 
 #regLink{
-    font-family: "OCR A Std", monospace;
+    font-family: "Lucida Console", Monaco, monospace;
     font-weight: bold;
     font-size: 40px;
 }
@@ -32,6 +32,6 @@ body{ background-color: #7d8ba7;}
     text-decoration: none;
     display: inline-block;
     font-weight: bold;
-    font-family: "OCR A Std", monospace;
+    font-family: "Lucida Console", Monaco, monospace;
     font-size: 36px;
 }
